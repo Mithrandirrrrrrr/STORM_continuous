@@ -1,0 +1,10 @@
+envs:
+  task: 'walker_walk'
+  action_repeat: 2
+  size: [64, 64]
+  seed: 0
+  time_limit: 1000
+  action_dim: 6
+
+training:
+  max_steps: 10

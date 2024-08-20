@@ -1,0 +1,15 @@
+# torch
+# torchaudio
+# torchvision
+yacs
+tensorboardX
+tensorboard
+moviepy
+colorama
+einops
+tqdm
+opencv-python
+gymnasium
+omegaconf
+mujoco
+dm_control
